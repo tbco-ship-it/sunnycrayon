@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /n/
 Sitemap: https://tbco-ship-it.github.io/sunnycrayon/sitemap.xml
